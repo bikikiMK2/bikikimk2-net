@@ -1,2 +1,2 @@
 # bikikimk2.net
-https://sub.bikikimk2.netの自動デプロイalwaysやってくれる...はずだった
+https://sub.bikikimk2.net の自動デプロイalwaysやってくれる...はずだった

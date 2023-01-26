@@ -1,2 +1,2 @@
 # bikikimk2.net
-https://bikikimk2.net の自動デプロイalwaysやってくれる
+https://bikikimk2.net の自動デプロイalwaysやってくれない

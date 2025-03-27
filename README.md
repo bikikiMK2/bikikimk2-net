@@ -1,2 +1,3 @@
-# bikikimk2.net
-https://bikikimk2.net の自動デプロイalwaysやってくれない
+# www.bikikimk2.net
+
+Cloudflare Pages にここを指定しているので、プッシュすれば自動でデプロイされる予定。
